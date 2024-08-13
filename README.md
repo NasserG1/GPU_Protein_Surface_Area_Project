@@ -1,3 +1,6 @@
+![protein_surface](https://github.com/user-attachments/assets/13b776f5-3957-4748-828a-fdfe4222ac34)
+
+
 
 # Advanced GPU-Accelerated Surface Analysis and Visualization of Proteins
 
